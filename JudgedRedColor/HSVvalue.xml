@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<value name="RedAreaValue">
+	<HminValue>156</HminValue>
+	<HmaxValue>175</HmaxValue>
+	<SminValue>59</SminValue>
+	<SmaxValue>255</SmaxValue>
+	<VminValue>137</VminValue>
+	<VmaxValue>255</VmaxValue>
+</value>
